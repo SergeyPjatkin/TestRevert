@@ -1,2 +1,3 @@
 Test new line 1
 Test new line 2
+Test new line 3
